@@ -1,2 +1,1 @@
-# PythonReference
-PythonReference
+This repo will serve as a reference of Python. This repo will contain snippets of code examples for reference when building my own libraries.
